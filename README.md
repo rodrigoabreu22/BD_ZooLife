@@ -1,2 +1,4 @@
 # BD_ZooLife
-BD Project; Grade: 18
+Projeto de Base de Dados. Base de dados relacional sobre um Zoo.
+
+Grade: 18
